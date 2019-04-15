@@ -1,0 +1,7 @@
+
+logging.level:
+  io.pivotal.dmfrey.contracteror: DEBUG
+
+
+server:
+  port: 0

@@ -1,0 +1,8 @@
+
+logging.level:
+  org.springframework.cloud.contract.stubrunner: INFO
+
+stubrunner:
+  ids: io.pivotal.dmfrey:api
+  idsToServiceIds:
+    api: simple-api
